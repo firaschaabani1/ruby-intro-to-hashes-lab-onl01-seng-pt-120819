@@ -3,7 +3,9 @@ new_hash = {}
 end
 
 def actor
-
+actor= {
+  :brad_pit
+}
 end
 
 def monopoly
